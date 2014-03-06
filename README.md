@@ -1,4 +1,8 @@
 Test
 ====
 
-learning how to use git
+how to use git;
+
+trying to initialize from my desktop and commit;
+
+
